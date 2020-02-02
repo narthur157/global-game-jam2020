@@ -10,7 +10,7 @@ Content/StarterContent/
 Content/VFX_Toolkit_v1
 Content/WaterMill/
 Content/EnvrionmentPack4/
-
+!Content/WaterMill/Textures/Props/wall01_N.uasset
 Content/AdvancedMagicFX13/
 # Visual Studio 2015 user specific files
 .vs/
