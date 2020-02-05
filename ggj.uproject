@@ -5,11 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "AudioSynesthesia",
+			"Name": "OculusAudio",
 			"Enabled": true
 		},
 		{
-			"Name": "OculusAudio",
+			"Name": "AudioSynesthesia",
 			"Enabled": true
 		}
 	],
